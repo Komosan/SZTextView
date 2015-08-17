@@ -15,7 +15,6 @@ FOUNDATION_EXPORT double SZTextViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char SZTextViewVersionString[];
 
 
-IB_DESIGNABLE
 
 @interface SZTextView : UITextView
 
